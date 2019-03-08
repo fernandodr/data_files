@@ -1,3 +1,5 @@
+
+
 {
 	"name": "flare",
 	"children": [
@@ -19,7 +21,4 @@
 			{"name": "Region 1", "value": 10},
 
 		]
-	]
 	}
-
-}
