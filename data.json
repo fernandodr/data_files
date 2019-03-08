@@ -1,10 +1,23 @@
 {
 	"name": "table",
 	"children": [
-		{"name": "Region 1", "value": 7},
-		{"name": "Region 2", "value": 15},
-		{"name": "Region 3", "value": 30},
-		{"name": "Region 4", "value": 40}
-
+		{
+		"name": "YES",
+		"children": [
+			{"name": "Region 1", "value": 7},
+			{"name": "Region 2", "value": 15},
+			{"name": "Region 3", "value": 30},
+			{"name": "Region 4", "value": 40}
+				]
+	},
+	{
+		"name": "NO",
+		"children": [
+			{"name": "Region 1", "value": 7},
+			{"name": "Region 2", "value": 20},
+			{"name": "Region 3", "value": 10},
+			{"name": "Region 4", "value": 10}
+				]
+	}
 	]
 }
